@@ -3,7 +3,8 @@
 Bienvenue dans mon univers GitHub ! 🚀
 Je suis un ancien logisticien qui a pris un virage à 180° pour plonger dans l'univers passionnant du développement web. Aujourd'hui, je suis en formation à la Wild Code School de Lille, où je façonne mes compétences pour devenir un développeur accompli.
 
-🛠️ Mes Super-Pouvoirs Techniques
+
+🛠️ Mes Super-Pouvoirs Techniques :
 
 🖥️ JavaScript : Exploration des bases, notamment avec Node.js et la syntaxe ESM.
 
@@ -19,7 +20,8 @@ Je suis un ancien logisticien qui a pris un virage à 180° pour plonger dans l'
 
 🔄 Opérations BREAD : Mise en place d'applications CRUD simples et efficaces.
 
-✨ Projets Récents
+
+✨ Projets Récents :
 
 🎢 Site d'un Parc d'Attractions
 
@@ -29,7 +31,8 @@ Un site web immersif qui met en lumière les attractions, horaires et tarifs d'u
 
 Une plateforme communautaire où les gourmands partagent leurs coups de cœur (et leurs déceptions) culinaires. 🥖🧀
 
-🎯 Objectifs Épiques
+
+🎯 Objectifs Épiques :
 
 🌱 Maîtriser les bases : HTML, CSS, JavaScript... l'arsenal complet du développeur.
 
@@ -41,16 +44,19 @@ Une plateforme communautaire où les gourmands partagent leurs coups de cœur (e
 
 📈 Monter en puissance : Ne jamais arrêter d'apprendre et relever chaque défi.
 
-🏫 Formation
+
+🏫 Formation :
 
 Actuellement, je me forme à la Wild Code School de Lille, une aventure qui mélange apprentissage intensif et projets concrets. Mon prochain défi : décrocher une alternance pour mettre en pratique tout ce savoir fraîchement acquis.
 
-🛠️ Projets à Venir
+
+🛠️ Projets à Venir :
 
 🔧 Création d'un Site Vitrine pour un Plombier
 Un site simple mais efficace pour mettre en avant les compétences et services d’un artisan plombier. Propreté, clarté et efficacité au programme !
 
-🤝 Contact
+
+🤝 Contact :
 
 📬 Prêt à collaborer ? Vous pouvez me retrouver ici, sur GitHub. Vos idées, conseils ou propositions sont les bienvenus !
 
